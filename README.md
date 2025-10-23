@@ -1,4 +1,4 @@
-Running program instruction:
+Running program instruction (Windows 8 or newer only):
 0. Make a virtual environment (venv) & Library Setup:
     - Open your Command Prompt or terminal
     - Open the directory you want to create the venv
